@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+*{
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-image: linear-gradient(to right,#e2e1e1,#A1A5A6 );
+}
+main {
+	background-color: white;
+	width: 600px;
+	padding: 10px;
+	margin: auto;
+	border-radius: 10px;
+	box-shadow: 10px 10px 1px #353D40;
+}
+h1 {
+	font-family:'noto sans japonês';
+	text-align: center;
+	color:#003F63 ;
+	text-shadow:1px 1px 2px #0608096e ;
+}
+h2,h3{
+	color:#353D40 ;
+}
+
+p {
+	text-align: justify;
+}
